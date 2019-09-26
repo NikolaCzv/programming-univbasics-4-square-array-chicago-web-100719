@@ -3,6 +3,6 @@ def square_array(array)
  counter = 0
  
  while counter < array.count  do 
-   squered.push 
+   squered.push(array.count)
    counter += 1
 end
