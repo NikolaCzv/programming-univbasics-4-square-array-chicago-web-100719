@@ -6,3 +6,5 @@ def square_array(array)
    squered.push(array.[counter] ** 2)
    counter += 1
 end
+squered
+end
